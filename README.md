@@ -2,7 +2,7 @@
 
 Mock catalogues of events used in https://arxiv.org/abs/2404.11480. 
 
-For each mass distribution, 10 independent realisations of $10^5$ events are avalilable, except for the Gaussian case with mmaz=2.5 for which 20 realisations are available.
+For each mass distribution, 10 independent realisations of $10^5$ events are avalilable, except for the Gaussian case with $m_{\rm max}=2.5 M_{\sun}$ for which 20 realisations are available.
 
 redshifts 
 and lensing magnifications {𝑧,𝜇} of the events are made available, together with a short script to plot the data. 
