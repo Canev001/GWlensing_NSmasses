@@ -1,1 +1,1 @@
-Mass distribution: m0=1.35 M_{sun} and mmmax=2.5 M_{sun}
+Mass distribution: $m0=1.35 M_{\odot}$ and $m_{\rm max}=2.5 M_{\odot}$
