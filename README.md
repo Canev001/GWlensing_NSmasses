@@ -1,6 +1,6 @@
 # Impact of lensing of gravitational waves on the observed distribution of neutron star masses
 
-Mock catalogues of events used in https://arxiv.org/abs/2404.11480. 
+Mock catalogues of events used in https://arxiv.org/abs/2404.11480v2. 
 
 For each mass distribution, 10 independent realisations of $10^5$ events are avalilable, except for the Gaussian case with $m_{\rm max}=2.5 M_{\odot}$ for which we consider 20 realisations. Each realisation is obtained by independently drawing values for the redshifts  $z$, masses $(m_1,m_2)$, angles $(\psi,\iota, \theta)$ and lensing magnifications $\mu$. 
 
